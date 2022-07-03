@@ -5,6 +5,9 @@ modic.io is an open-source organisation to maintain the **codi-native** framewor
 * :computer: **codi-native** contains the base framework repository. Check the documentation and wiki provided there!
 * :book: **codi-native-docs** contains the generated ScalaDoc github page of the codi-native fromework, maintained by our bot.
 * :rocket: **codi-insights** contains a ready-to-run starter project base on codi-native, scala and the playframework.
+
+A quick-start regarding **codi-native** can be found in out [getting-started guide](https://github.com/modicio/codi-native/wiki/Getting-Started)
+
 <!--
 
 **Here are some ideas to get you started:**
