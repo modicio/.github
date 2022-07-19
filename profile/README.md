@@ -8,6 +8,8 @@ modicio is an open-source organisation to maintain the **codi-native** framework
 
 A quick-start regarding **codi-native** can be found in out [getting-started guide](https://github.com/modicio/codi-native/wiki/Getting-Started)
 
+General information are documented in our [wiki](https://github.com/modicio/codi-native/wiki).
+
 This organization is supervised by KKegel and affiliated to the software engineering lab at TU-Dresden.
 <!--
 
