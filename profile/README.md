@@ -1,4 +1,4 @@
-## welcome to modicio 👋
+## welcome to modicio
 
 modicio is an open-source organisation to maintain the **codi-native** framework and related projects.
 
