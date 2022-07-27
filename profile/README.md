@@ -10,7 +10,7 @@ A quick-start regarding **codi-native** can be found in out [getting-started gui
 
 General information are documented in our [wiki](https://github.com/modicio/codi-native/wiki).
 
-This organization is associated to the software engineering lab at TU Dresden.
+*This organization is associated to the software engineering lab at TU-Dresden.*
 <!--
 
 **Here are some ideas to get you started:**
