@@ -2,7 +2,7 @@
 
 modicio is an open-source organisation to maintain the **codi-native** framework and related projects. 
 
-* :computer: **codi-native** contains the base framework repository. Check the documentation and wiki provided there!
+* :computer: **codi-native** contains the base microframework (CoDI-pattern reference implementation). Check the documentation and wiki provided there!
 * :book: **codi-native-docs** contains the generated ScalaDoc github page of the codi-native framework, maintained by our bot.
 * :rocket: **codi-insights** contains a ready-to-run starter project base on codi-native, scala and the playframework.
 
