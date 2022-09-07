@@ -1,22 +1,23 @@
 ## welcome to modicio
 
-modicio is an open-source organisation to maintain the **codi-native** implementation and related projects. 
+modicio is an open-source organisation to maintain the same named **modicio** framework and related projects. 
 
-* :computer: **codi-native** contains the CoDI-pattern reference implementation. Check the documentation and wiki provided there!
-* :book: **codi-native-docs** contains the generated ScalaDoc github page of the codi-native framework, maintained by our bot.
-* :rocket: **codi-insights** contains a ready-to-run starter project base on codi-native, scala and the playframework.
+* :computer: **modicio** contains the main framework implementation.
+* :computer: **codi-native** contains the (no longer maintained) CoDI-pattern reference implementation. The code has moved to the modicio main repository
+* :book: **modicio-docs** contains the generated ScalaDoc github page of the codi-native framework, maintained by our bot.
+* :rocket: **codi-insights** contains a ready-to-run starter project base on codi-native/modicio, scala and the playframework.
 
-A quick-start regarding **codi-native** can be found in out [getting-started guide](https://github.com/modicio/codi-native/wiki/Getting-Started)
+A quick-start regarding **modicio** can be found in out [getting-started guide](https://github.com/modicio/modicio/wiki/Getting-Started)
 
-General information are documented in our [wiki](https://github.com/modicio/codi-native/wiki).
+General information are documented in our [wiki](https://github.com/modicio/modicio/wiki).
 
 ### Roadmap
 
-The main goal for future releases is to keep the codi-native reference implementation as small and lean as possible. Consequently, extensions as stated in our wiki and/or issue board will not become part of the codi-native codebase. Instead, we develop the **modicio** framework based on codi-native as a submodule but with all additional extensions to grow our concept into a full user-driven runtime-modelling framework.
+A goal for future work was to keept the codi-native reference implementation as a clean snapshot. Consequently, extensions as stated in our wiki and/or issue board will not become part of the codi-native codebase. Instead, we develop and maintain all new features as part of the the **modicio** framework. The final goal is to grow our concept into a full runtime-variable modelling framework for eternal system development.
 
 ---
 
-*This organization is affiliated to the software engineering lab at TU-Dresden.*
+*This organization is affiliated to the software engineering lab at TU-Dresden, please contact Karl Kegel for questions.*
 <!--
 
 **Here are some ideas to get you started:**
