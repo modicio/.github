@@ -4,7 +4,7 @@ modicio is an open-source organisation to maintain the same named **modicio** fr
 
 * :computer: **modicio** contains the main framework implementation.
 * :computer: **codi-native** contains the (no longer maintained) CoDI-pattern reference implementation. The code has moved to the modicio main repository
-* :book: **modicio-docs** contains the generated ScalaDoc github page of the codi-native framework, maintained by our bot.
+* :book: **modicio-docs** contains the generated ScalaDoc github page of the modicio framework, maintained by our bot.
 * :rocket: **codi-insights** contains a ready-to-run starter project base on codi-native/modicio, scala and the playframework.
 
 A quick-start regarding **modicio** can be found in out [getting-started guide](https://github.com/modicio/modicio/wiki/Getting-Started)
