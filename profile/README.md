@@ -20,7 +20,7 @@ A goal for future work was to keept the codi-native reference implementation as 
 
 ---
 
-*This organization is affiliated to the software engineering lab at TU-Dresden, please contact Karl Kegel for questions.*
+*This organization is affiliated to the [software engineering lab](https://github.com/st-tu-dresden) at TU-Dresden, please contact Karl Kegel for questions.*
 <!--
 
 **Here are some ideas to get you started:**
